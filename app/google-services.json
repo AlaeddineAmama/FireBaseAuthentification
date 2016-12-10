@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "899469355208",
+    "firebase_url": "https://fir-issat.firebaseio.com",
+    "project_id": "fir-issat",
+    "storage_bucket": "fir-issat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899469355208:android:8ead82e498c1fbfd",
+        "android_client_info": {
+          "package_name": "com.issat.alaeddine.firebaseissat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899469355208-efs5u3dpuodou27tmb5ak82746l94dgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS6n_T1IXjcsLl7TGVmCPQO6eHhNEHumU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
